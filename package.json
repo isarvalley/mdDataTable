@@ -54,7 +54,7 @@
     "angular-aria": "github:angular/bower-angular-aria@^1.5.7",
     "angular-material": "github:angular/bower-material@^1.1.0-rc.5",
     "angular-material-icons": "npm:angular-material-icons@^0.7.0",
-    "angular-sanitize": "github:angular/bower-angular-sanitize@^0.7.0",
+    "angular-sanitize": "github:angular/bower-angular-sanitize@^1.5.7",
     "jasmine-core": "npm:jasmine-core@^2.4.1",
     "jquery": "npm:jquery@^3.0.0",
     "lodash": "npm:lodash@^4.13.1"
